@@ -1,0 +1,3 @@
+﻿  WinKeygen.cpp
+C:\Users\Hunter\source\repos\WinKeygen\WinKeygen\WinKeygen.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WinKeygen.vcxproj -> C:\Users\Hunter\source\repos\WinKeygen\x64\Debug\WinKeygen.exe
